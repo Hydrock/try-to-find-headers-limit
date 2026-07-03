@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "check": "node header-test.js"
+    "limit": "NODE_TLS_REJECT_UNAUTHORIZED=0 node header-test.js"
   }
 }
