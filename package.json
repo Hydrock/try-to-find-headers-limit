@@ -1,0 +1,9 @@
+{
+  "name": "chech-headers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "check": "node header-test.js"
+  }
+}
